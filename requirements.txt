@@ -9,7 +9,6 @@ ipython-genutils==0.2.0
 jsonschema==2.6.0
 jupyter-core==4.4.0
 mkl-fft==1.0.6
-mkl-random==1.0.1
 nbformat==4.4.0
 numpy==1.15.3
 pandas==0.23.4
